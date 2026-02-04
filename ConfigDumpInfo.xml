@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.Работники" id="6563e79c-a4bc-4461-a810-73ea5a198b50" configVersion="fac0d10c77e34f46a2f03c6b6e4e236b00000000">
+			<Metadata name="AccumulationRegister.Работники.Resource.КолРаботников" id="2966a617-de38-4c92-bf62-312bd184533f"/>
+			<Metadata name="AccumulationRegister.Работники.Dimension.Отдел" id="5560aa7b-9821-4f16-8a08-67b1bb378392"/>
+			<Metadata name="AccumulationRegister.Работники.Dimension.Сотрудник" id="b81ee7f3-d2bd-46b1-a617-ff4eb49685b0"/>
+			<Metadata name="AccumulationRegister.Работники.Dimension.Должность" id="d960a2d0-2362-4ba6-a2ea-2390dc2e5017"/>
+		</Metadata>
+		<Metadata name="Catalog.Отделы" id="d150de46-d53d-4a9a-bbba-de1dbdf9ab8e" configVersion="257cd2238c9548458e2cd1a547728b3900000000">
+			<Metadata name="Catalog.Отделы.Attribute.Отдел" id="847872d7-b572-469a-8cee-61b2e96bbfd6"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="e96017f5-a335-482d-90e8-c5135b37a162" configVersion="650fed9636e10943b0b759a7f1d03c9500000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.Отдел" id="4a8dc4b7-1e64-4194-b9d2-5a98111f8d0d"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Статус" id="6d8c5e21-3384-40eb-9fb4-12d0193ec616"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="952681bf-d24f-4044-abde-8d420f9c99b9"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Сотрудник" id="c5d3dd33-4e0b-4f74-b508-24b653081700"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента" id="15b8326d-05cb-4a5e-a9a7-3485c7297e3c" configVersion="bea34d160021b249bc141f764cfd73db00000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаЭлемента.Form" id="15b8326d-05cb-4a5e-a9a7-3485c7297e3c.0" configVersion="64a21fc338c8774287a62b492d12fb8700000000"/>
+		<Metadata name="CommonForm.РабочийСтол" id="c9323adf-9cb9-4b22-9856-10cb4fb98fd8" configVersion="6be5e94da67207478eea1e2fbb46a60800000000"/>
+		<Metadata name="CommonForm.РабочийСтол.Form" id="c9323adf-9cb9-4b22-9856-10cb4fb98fd8.0" configVersion="12541caee934ba42ba17fcbd29697d4f00000000"/>
+		<Metadata name="CommonPicture.ОбщаяКартинка1" id="442e72d7-7400-4909-841e-bb375ef79cef" configVersion="29d02eb2e1c5d243a9a96aa40bc2f4bf00000000"/>
+		<Metadata name="CommonPicture.ОбщаяКартинка1.Picture" id="442e72d7-7400-4909-841e-bb375ef79cef.0" configVersion="68eefa349a9f2f40a2bad80e384e7d9900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="5fe12ca0-c269-4179-a658-eb22208efbc9" configVersion="0cbd0ad3f6a83747a8bf4156c541bc8600000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="2191a7e5-9c45-4af6-a6c6-fc0bafc07c42.8" configVersion="e70f91f914d8d94ca3f8f1ea555d7ff200000000"/>
+		<Metadata name="Document.Отпуска" id="fce98006-9aed-43d9-9b41-ece721a14eca" configVersion="63b81a1805164f419bcfdce2267c6b0600000000">
+			<Metadata name="Document.Отпуска.Attribute.ДатаОкончанияОтпуска" id="17602448-f4be-44e2-9cb0-a49f7a3ff1fb"/>
+			<Metadata name="Document.Отпуска.Attribute.ТипОтпуска" id="bcafec01-b6bb-4f77-8d81-e1d2870533ab"/>
+			<Metadata name="Document.Отпуска.Attribute.Сотрудник" id="d43f1c99-ef97-4038-9ad9-06a37c7758e0"/>
+			<Metadata name="Document.Отпуска.Attribute.ДатаНачалаОтпуска" id="d6a8e33e-ce11-46f9-83a2-63c2d06a46cc"/>
+		</Metadata>
+		<Metadata name="Document.Отпуска.Form.ФормаДокумента" id="8bdd23a1-1b0b-4517-92ac-9855deb36364" configVersion="feddfd50a7fd204fb6258f97c8d744d300000000"/>
+		<Metadata name="Document.Отпуска.Form.ФормаДокумента.Form" id="8bdd23a1-1b0b-4517-92ac-9855deb36364.0" configVersion="5d65cf3b7cd3d44a9eebcf29075fd94900000000"/>
+		<Metadata name="Document.Отпуска.ObjectModule" id="fce98006-9aed-43d9-9b41-ece721a14eca.0" configVersion="e14b512cb04d684b9b90fdbc3b710a2c00000000"/>
+		<Metadata name="Document.ПриемНаРаботу" id="1fabff12-6ff6-4d9a-89b3-151326477928" configVersion="7c20187ef33d4d44b4cc87b3f368e5e200000000">
+			<Metadata name="Document.ПриемНаРаботу.Attribute.Сотрудник" id="4ada779a-1ecd-4773-86ae-4d900646a5ff"/>
+			<Metadata name="Document.ПриемНаРаботу.Attribute.Должность" id="54a19a9b-8e8d-4614-842d-443d5e13d008"/>
+			<Metadata name="Document.ПриемНаРаботу.Attribute.Отдел" id="694a84b7-2579-49ba-9561-3a4e75c2e95f"/>
+			<Metadata name="Document.ПриемНаРаботу.Attribute.Статус" id="8c95b2fe-a0e6-4b7e-933a-782d4f39a320"/>
+		</Metadata>
+		<Metadata name="Document.ПриемНаРаботу.Form.ФормаДокумента" id="e6a29a9d-cf91-4ac9-bed4-2e596963d678" configVersion="8470abc9edddc144810adcaf6fb12cd500000000"/>
+		<Metadata name="Document.ПриемНаРаботу.Form.ФормаДокумента.Form" id="e6a29a9d-cf91-4ac9-bed4-2e596963d678.0" configVersion="a8da9d54c98f3e4b8689274d67ae6e5000000000"/>
+		<Metadata name="Document.ПриемНаРаботу.ObjectModule" id="1fabff12-6ff6-4d9a-89b3-151326477928.0" configVersion="589c3e87d8424448b7a5c287b98a9bea00000000"/>
+		<Metadata name="Document.Увольнение" id="00de1187-0019-4d39-a1d3-e55d28aa5536" configVersion="8a9d45a84f036c468783dd0361b2247d00000000">
+			<Metadata name="Document.Увольнение.Attribute.ДатаУвольнения" id="12da4650-df05-4a1e-a449-0975501bfe4e"/>
+			<Metadata name="Document.Увольнение.Attribute.Сотрудник" id="293e5cd4-83d6-464e-9978-65ace722e2de"/>
+			<Metadata name="Document.Увольнение.Attribute.ПричинаУвольнения" id="4f764035-df92-4d7c-9df7-9ee9b1df5464"/>
+		</Metadata>
+		<Metadata name="Document.Увольнение.Form.ФормаДокумента" id="2c45b7d1-3e30-4076-8a06-bd554e989e12" configVersion="c9fb5fe7aebdc94dacf70432b3d05aaf00000000"/>
+		<Metadata name="Document.Увольнение.Form.ФормаДокумента.Form" id="2c45b7d1-3e30-4076-8a06-bd554e989e12.0" configVersion="7ba7aff37c0b014592ff7860b9bd907c00000000"/>
+		<Metadata name="Document.Увольнение.ObjectModule" id="00de1187-0019-4d39-a1d3-e55d28aa5536.0" configVersion="598ad526b006a74f9e5516e24a70306000000000"/>
+		<Metadata name="DocumentJournal.КадровыйУчет" id="9b32440b-841a-4566-8e2c-cc8dacd801f2" configVersion="40b36e0eb3f16a489d0ed597c0bbb28500000000"/>
+		<Metadata name="DocumentJournal.КадровыйУчет.Form.ФормаСписка" id="276dfc18-f153-4cdc-a455-8ef6121eb52f" configVersion="e01604dd7d40ce4aa414c8f4be8b1f0000000000"/>
+		<Metadata name="DocumentJournal.КадровыйУчет.Form.ФормаСписка.Form" id="276dfc18-f153-4cdc-a455-8ef6121eb52f.0" configVersion="027493fc9be9dc45868ee1a6132f69df00000000"/>
+		<Metadata name="Enum.ВидОтпуска" id="1fc3d68e-e55e-4330-bc41-98f726307464" configVersion="fbb3579b7be0da4c9bb4792b94375a6100000000">
+			<Metadata name="Enum.ВидОтпуска.EnumValue.ПоУходуЗаРебенком" id="0f708246-ec29-4233-89ee-1f80f321dc8b"/>
+			<Metadata name="Enum.ВидОтпуска.EnumValue.Ежегодный" id="ee4cb412-c579-42b5-b069-87765cc11d8d"/>
+		</Metadata>
+		<Metadata name="Enum.Должности" id="a8c66920-03a5-48cc-b9db-ffcbd4c19548" configVersion="9647c626a519d4409b3b14bfc165869f00000000">
+			<Metadata name="Enum.Должности.EnumValue.Заместитель" id="21e9e3d0-4fd5-4239-b415-d3ee52af20df"/>
+			<Metadata name="Enum.Должности.EnumValue.ШтатныйСотрудник" id="4602d1d5-5ece-4456-90a9-b69fe7b911dd"/>
+			<Metadata name="Enum.Должности.EnumValue.Помощник" id="80d022cc-e1f6-49df-8b74-625219489bcf"/>
+			<Metadata name="Enum.Должности.EnumValue.Директор" id="9994b39a-4c1e-4399-b6fd-a6c470265d21"/>
+		</Metadata>
+		<Metadata name="Enum.СтатусыСотрудников" id="bdb0e4f5-0bc8-421c-bfa2-9528bd201283" configVersion="f5e4b1888942f0439cb14e9a26fa475400000000">
+			<Metadata name="Enum.СтатусыСотрудников.EnumValue.ВОтпуске" id="48c6955c-28a9-4c50-bb87-829c0f6f8f31"/>
+			<Metadata name="Enum.СтатусыСотрудников.EnumValue.Работающий" id="8740e3a2-8f40-4c4b-b1c5-7a709e2f9230"/>
+			<Metadata name="Enum.СтатусыСотрудников.EnumValue.Уволенный" id="df62d363-f68e-4425-8bde-1e4cc10be749"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="14accc85-4bed-4a83-b0b5-e759e402e246" configVersion="643deb5c7678a643b95b92da799912a900000000"/>
+		<Metadata name="Report.КолРаботников" id="e6b1d0eb-c8b1-4f53-ba63-fdf5696e1015" configVersion="ab82f98f7f5e9742bb918ea8a5a93f5f00000000"/>
+		<Metadata name="Report.КолРаботников.Form.ФормаОтчета" id="57559248-5485-4a15-91df-c371f9f74224" configVersion="cd260e18e53636418b91f75c989552a900000000"/>
+		<Metadata name="Report.КолРаботников.Form.ФормаОтчета.Form" id="57559248-5485-4a15-91df-c371f9f74224.0" configVersion="29b68bb920097740b77454636090210c00000000"/>
+		<Metadata name="Report.КолРаботников.Template.ОсновнаяСхемаКомпоновкиДанных" id="a0c91846-62fb-4f6f-993a-7737cf84ef0a" configVersion="e2388fe45c71cc499abb2371d8e248c100000000"/>
+		<Metadata name="Report.КолРаботников.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="a0c91846-62fb-4f6f-993a-7737cf84ef0a.0" configVersion="90a6cd8159328d4ba70e9e5a4c4e5ae800000000"/>
+		<Metadata name="Role.Админ" id="51dedfd7-35c1-45d6-b91b-93c31c86e7e8" configVersion="38fce8b9ef405f4c9ca40b47d97354bc00000000"/>
+		<Metadata name="Role.Админ.Rights" id="51dedfd7-35c1-45d6-b91b-93c31c86e7e8.0" configVersion="56dadde3aa489647b9e2e785c4369d9500000000"/>
+		<Metadata name="Role.ОтделКадров" id="b58c7011-271e-4fb4-af9a-cfefb64ebc29" configVersion="40b5cd781178264bac43497b94cca31900000000"/>
+		<Metadata name="Role.ОтделКадров.Rights" id="b58c7011-271e-4fb4-af9a-cfefb64ebc29.0" configVersion="7c7a6362df9bbf4f979e6c9c47e9992100000000"/>
+		<Metadata name="Role.Сотрудник" id="dfef26eb-f72f-4c28-90b9-2ea2be80b657" configVersion="61b15bb53baa404fabe2533a8e3e3a3500000000"/>
+		<Metadata name="Role.Сотрудник.Rights" id="dfef26eb-f72f-4c28-90b9-2ea2be80b657.0" configVersion="e08a747754de5840b13ae2343e45388e00000000"/>
+		<Metadata name="Subsystem.Организация" id="186efaf6-d0f8-4fa0-96b2-acf8bed59a95" configVersion="1cb6f2773d36dd4e81180660b6447f1900000000"/>
+		<Metadata name="Subsystem.ОтделКадров" id="64995f13-1cf4-4cec-93d1-2d71f560308f" configVersion="13ea271d27396b41b9705612e57eebba00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
